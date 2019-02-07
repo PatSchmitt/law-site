@@ -23,7 +23,8 @@ html { background: #fff; color: #000; -webkit-text-size-adjust: 100%; -ms-text-s
 html, button, input, select, textarea { font-family: sans-serif; }
 
 /* line 119, sass/libs/_normalize.scss */
-body { margin: 0; }
+body { margin: 0;
+	   Background-color: black; }
 
 /* line 132, sass/libs/_normalize.scss */
 a { background: transparent; }
